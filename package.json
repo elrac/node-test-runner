@@ -17,5 +17,6 @@
   "bin": {
     "mocha": "./node_modules/mocha/bin/mocha",
     "_mocha": "./node_modules/mocha/bin/_mocha"
-  }
+  },
+  "repository": "github:elrac/node-test-runner"
 }
