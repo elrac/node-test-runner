@@ -1,8 +1,3 @@
-if(!describe){
-  console.log('You should probably install mocha');
-  console.log('npm install --save-dev mocha');
-}
-
 var path = require('path');
 var chai = require("chai");
 var chaiAsPromised = require("chai-as-promised");
